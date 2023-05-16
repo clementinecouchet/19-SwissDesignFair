@@ -2,9 +2,22 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  font-family: "elza", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+h2 {
+  font-family: "gambado-sans-forte", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+img {
+  clip-path: circle(37.9% at 50% 50%);;
 }
