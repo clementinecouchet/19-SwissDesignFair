@@ -85,6 +85,7 @@ hr {
   clip-path: circle(28.3% at 47% 53%);
   max-width: 100px;
   text-align: center;
+  padding: 40px;
 }
 
 .card-product a {
@@ -119,4 +120,15 @@ hr {
 
 .newson-chair p {
  padding: 0;
+}
+
+footer {
+  padding: 0 40px 25px;
+}
+
+.button-footer {
+  padding: 25px 0 50px;
+  font-size: 15px;
+  border: solid 0.75px black;
+  border-radius: 50%;
 }
