@@ -79,3 +79,44 @@ footer {
 hr {
   border: solid 0.75px black;
 }
+
+.card-product {
+  background-color: #f5e2d9;
+  clip-path: circle(28.3% at 47% 53%);
+  max-width: 100px;
+  text-align: center;
+}
+
+.card-product a {
+  text-decoration: underline;
+}
+
+.card-work-shiro {
+  background-color: #e9be96;
+  max-width: 200px;
+  clip-path: circle(40% at 50% 50%);
+  padding: 60px;
+  font-size: 15px;
+}
+
+.card-paddle {
+  padding: 60px;
+  max-width: 100px;
+  clip-path: circle(40% at 50% 50%);
+}
+
+.card-paddle-50 {
+  background-color: #aca036;
+}
+
+.card-paddle-60 {
+  background-color: #fce04e;
+}
+
+.card-paddle-70 {
+  background-color: #fc7f49;
+}
+
+.newson-chair p {
+ padding: 0;
+}
