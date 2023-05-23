@@ -21,5 +21,40 @@ h2 {
 
 .Exhibition-info {
   text-align: center;
- 
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+
+  align-items: flex-end;
+}
+
+.nav-container img {
+  max-width: 55px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.img-central {
+  clip-path: circle(35% at 50% 50%);
+}
+
+h1 {
+  max-width: 210px;
+  text-align: center;
+}
+
+header,
+footer {
+  background-image: url(../img/1x/bg-header-100.jpg);
 }
